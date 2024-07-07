@@ -110,3 +110,8 @@ docker ps --filter ancestor=aishwarya166/cc_cronbackup_image
 ./entrypoint.sh
 ``` 
 
+### Project Members
+- Achala Nayak
+- Aishwarya L Patil
+- Akshatha MK
+- A Geethika Chowdary
